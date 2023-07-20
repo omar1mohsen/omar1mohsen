@@ -1,7 +1,7 @@
 # Hi! I'm Omar Mohsen
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Verdana&color=00A5F7&vCenter=true&lines=Frontend+Developer;++And+UI+Designer)](https://git.io/typing-svg)
 
-[![Gmail Badge](https://img.shields.io/badge/-Mail-f00?style=flat-square&logo=Gmail&logoColor=white&link=omar33mohsen@ygmail.com)](omar33mohsen@ygmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-Mail-f00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omar33mohsen@gmail.com)](mailto:omar33mohsen@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omar-mohsen-5547a7281/)](https://www.linkedin.com/in/omar-mohsen-5547a7281/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Omar07815749)](https://twitter.com/Omar07815749) 
 
 <br>
