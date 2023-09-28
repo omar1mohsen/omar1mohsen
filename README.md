@@ -9,6 +9,11 @@
 Hi there! I'm a Front-End Developer. I'm passionate about creating beautiful and user-friendly web applications. I'm a quick learner and a creative problem-solver who loves to experiment with new technologies. Let's connect if you're looking for an enthusiastic Front-End Developer to join your team!
 <br>
 <br>
+👨‍💻 my portfolio is now live and ready to showcase my skills and projects. 🌟
+
+🌐 Check it out here: https://omarmohsen-portfolio.vercel.app/
+<br>
+<br>
 
 ## My Development Stack
 <br>
