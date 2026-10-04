@@ -50,8 +50,8 @@ Built a shared component system with an AI-assisted pipeline from design to type
 
 ### Activity
 
-<p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=omar1mohsen&bg_color=0E2A47&color=E8F1FF&line=7FD1FF&point=FFC857&area=true&area_color=7FD1FF&radius=0&custom_title=Contributions" alt="Contribution graph"/>
+<p align="center">
+  <img src="./assets/snake.svg" width="100%" alt="Contribution graph being eaten by a snake"/>
 </p>
 
 ### Open to
