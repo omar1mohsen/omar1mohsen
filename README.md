@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://omarmohsen-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0E2A47?style=for-the-badge&logo=vercel&logoColor=FFC857" alt="Portfolio"/></a>
+  <a href="https://omar-mohsen-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0E2A47?style=for-the-badge&logo=vercel&logoColor=FFC857" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/omar-mohsen-5547a7281/"><img src="https://img.shields.io/badge/LinkedIn-0E2A47?style=for-the-badge&logo=linkedin&logoColor=7FD1FF" alt="LinkedIn"/></a>
   <a href="mailto:omar33mohsen@gmail.com"><img src="https://img.shields.io/badge/Email-0E2A47?style=for-the-badge&logo=gmail&logoColor=7FD1FF" alt="Email"/></a>
   <a href="https://x.com/Omar07815749"><img src="https://img.shields.io/badge/X-0E2A47?style=for-the-badge&logo=x&logoColor=E8F1FF" alt="X"/></a>
